@@ -71,7 +71,7 @@ Make sure these are already installed on your PC:
   Add this line:
   ```properties
   server.port=8081
-  You need to go to a browser (like Chrome or Edge) and visit http://localhost:8080 because Spring Boot runs your web application on a local web server, not inside VS Code or the terminal.
+  You need to go to a browser (like Chrome or Edge) and visit http://localhost:8081 because Spring Boot runs your web application on a local web server, not inside VS Code or the terminal.
 
 Your code creates a web page, and the only way to see and interact with web pages is through a web browser — just like how you open any normal website.
   
